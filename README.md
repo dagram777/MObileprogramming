@@ -22,7 +22,11 @@ Authorization
 =&gt;Students have a role to upload delete and update the resources
 they want to share.
 =&gt;Thay can only view and download others resources
+
+
+
 BUSINESS FEATURES
+
  RESOURCE SECTION where you can perform CRUD Operations
  COMMENT SECTION that allows to write,edit,change and remove
 comments related to each resources.
