@@ -4,12 +4,13 @@ Student Resource Platform
 
 MEMBERS
 
-NAME 1
 Aksumawit Yemane UGR/ 5297/12
+
 Dagmawi Adam. UGR/1527/13
+
 Fikir Fikre. UGR/6193/12
 
-3
+
 DESCRIPTION
 
 This project is intended to make students to become efficient in
