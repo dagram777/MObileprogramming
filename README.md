@@ -28,5 +28,6 @@ they want to share.
 BUSINESS FEATURES
 
  RESOURCE SECTION where you can perform CRUD Operations
+
  COMMENT SECTION that allows to write,edit,change and remove
 comments related to each resources.
