@@ -13,3 +13,21 @@ class CourseCreate extends CourseEvent{
   String department;
   CourseCreate(this.id,this.title,this.pdf,this.video,this.years,this.department);
 }
+
+
+class CourseUpdate extends CourseEvent{
+   int id;
+  String title;
+  String pdf;
+  String video; 
+  String years;
+  String department;
+  CourseUpdate(this.id,this.title,this.pdf,this.video,this.years,this.department);
+}
+
+class CourseDelete extends CourseEvent{
+  int id;
+  CourseDelete(this.id);
+}
+
+
